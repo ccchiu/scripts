@@ -1,0 +1,3 @@
+#!/bin/sh
+sshfs root@10.0.3.43:/opt/apache2/htdocs/new /LIN_WWW
+sshfs root@10.0.3.43:/ /LIN_ROOT

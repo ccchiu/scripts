@@ -1,0 +1,3 @@
+#!/bin/sh
+fusermount -u /LIN_WWW
+fusermount -u /LIN_ROOT
